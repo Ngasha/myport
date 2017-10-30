@@ -3508,7 +3508,11 @@ nav ul a span.badge {
   left: auto;
   right: auto;
 }
-
+.row .col.s12 h4{
+  color:#000;
+  font-weight:600;
+  text-align:center;
+}
 .row .col.s12 {
   width: 100%;
   margin-left: auto;
