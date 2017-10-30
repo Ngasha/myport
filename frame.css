@@ -1,0 +1,60 @@
+.white{
+  background: #000;
+  color: #fff;
+}
+.header h5{
+  color: #fff;
+}
+/*color header*/
+h5 .header .col .s12 .light{
+  color: #fff;
+}
+/* school skills==============*/
+.achieved h2{
+  font-size:18px;
+}
+.Html{
+  background: rgba(128, 77, 202, 0.30);
+  padding: 1px;
+  border-right: 3.2px solid #7BFC00;
+  height: 65px;
+  width: 100%;
+  margin-bottom: 2px;
+}
+.jQuery{
+    background: rgba(79, 84, 94, 0.3);
+    padding: 1px;
+    border-right: 3.2px solid rgb(0, 118, 252);
+    height: 65px;
+    width: 100%;
+    margin-bottom: 2px;
+}
+.css{
+  background: rgba(175, 222, 204, 0.83);
+  padding: 1px;
+  border-right: 3.2px solid #FC0004;
+  height: 65px;
+  width: 100%;
+  margin-bottom: 2px;
+}
+.javascript{
+  background: rgba(125, 211, 17, 0.22);
+  padding: 1px;
+  border-right: 3.2px solid rgba(0, 30, 252, 0.91);
+  height: 65px;
+  width: 100%;
+  margin-bottom: 2px;
+}
+.ict{
+  background: rgba(69, 12, 82, 0.17);
+  padding: 1px;
+  border-right: 3.2px solid #FC3900;
+  height: 65px;
+  width: 100%;
+  font-size:18px;
+  margin-bottom: 2px;
+}
+/*downloading*/
+.downloading{
+  text-align: center;
+}
