@@ -2883,7 +2883,11 @@ ul.staggered-list li {
   padding-top: 20px;
   color: #fff;
   background-color: #ee6e73;
+  height: max-content;
 }
+footer .page-footer .teal{
+  height: max-content;
+} 
 
 .page-footer .footer-copyright {
   overflow: hidden;
@@ -2896,7 +2900,7 @@ ul.staggered-list li {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 10px 0px;
+  /*padding: 10px 0px;*/
   color: rgba(255, 255, 255, 0.8);
   background-color: rgba(51, 51, 51, 0.08);
 }
