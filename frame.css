@@ -59,3 +59,10 @@ h5 .header .col .s12 .light{
   text-align: center;
 }
 /*footer follow*/
+
+.patela{
+  height: 100px;
+  width: 90px;
+  border-radius: 25%;
+  border: 1px solid rgb(196, 7, 148);
+}
