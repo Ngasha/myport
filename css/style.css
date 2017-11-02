@@ -56,3 +56,15 @@ p {
 footer.page-footer {
   margin: 0;
 }
+/*footer{
+  font-size: 1.6em;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin:auto;
+  text-align: center;
+
+  border-top: 1px dotted gray;
+  background: #000;
+  display: inline-table;
+}*/
