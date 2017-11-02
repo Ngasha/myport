@@ -2418,7 +2418,7 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-button[disabled],
+button[enabled],
 html input[disabled] {
   cursor: default;
 }
